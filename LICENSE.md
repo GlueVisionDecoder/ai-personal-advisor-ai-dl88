@@ -1,4 +1,4 @@
-# 
+# Lightweight AI Personal Finance Advisor themes. Featuring explainable-AI and cloud-AI — optimized for maximum performance.
 
 
 
